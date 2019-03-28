@@ -1,0 +1,6 @@
+// check if git installed
+
+git --version
+
+// if not installed then install
+sudo apt-get install git
