@@ -2,27 +2,3 @@
 
 git --version
 
-// if not installed then install
-sudo apt-get install git
-
-// start the git repository
-git init
-
-
-// gives status of all files in this folder
-git status
-
-// stage changes for committing
-git add *
-
-// commit
-git commit 
-
-// play around with making some changes and reverting to previous 
-
-
-
-new line
-
-
-
