@@ -4,3 +4,15 @@ git --version
 
 // if not installed then install
 sudo apt-get install git
+
+// gives status of all files in this folder
+git status
+
+// stage changes for committing
+git add *
+
+// commit
+git commit 
+
+
+
